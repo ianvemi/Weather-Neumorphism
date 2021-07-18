@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Weather-Neumorphism/static/css/main.848e9349.chunk.css",
+    "main.js": "/Weather-Neumorphism/static/js/main.5d6f9edd.chunk.js",
+    "main.js.map": "/Weather-Neumorphism/static/js/main.5d6f9edd.chunk.js.map",
+    "runtime-main.js": "/Weather-Neumorphism/static/js/runtime-main.5e379356.js",
+    "runtime-main.js.map": "/Weather-Neumorphism/static/js/runtime-main.5e379356.js.map",
+    "static/js/2.0eec7fbc.chunk.js": "/Weather-Neumorphism/static/js/2.0eec7fbc.chunk.js",
+    "static/js/2.0eec7fbc.chunk.js.map": "/Weather-Neumorphism/static/js/2.0eec7fbc.chunk.js.map",
+    "static/js/3.fab7d10e.chunk.js": "/Weather-Neumorphism/static/js/3.fab7d10e.chunk.js",
+    "static/js/3.fab7d10e.chunk.js.map": "/Weather-Neumorphism/static/js/3.fab7d10e.chunk.js.map",
+    "index.html": "/Weather-Neumorphism/index.html",
+    "static/css/main.848e9349.chunk.css.map": "/Weather-Neumorphism/static/css/main.848e9349.chunk.css.map",
+    "static/js/2.0eec7fbc.chunk.js.LICENSE.txt": "/Weather-Neumorphism/static/js/2.0eec7fbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e379356.js",
+    "static/js/2.0eec7fbc.chunk.js",
+    "static/css/main.848e9349.chunk.css",
+    "static/js/main.5d6f9edd.chunk.js"
+  ]
+}
